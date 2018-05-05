@@ -6,6 +6,6 @@ import retrofit2.Call;
 import retrofit2.http.GET;
 
 public interface RootApi {
-    @GET("v2/route/index/full/0")
+    @GET("topsecret")
     Call<RoutesList> routesData();
 }
