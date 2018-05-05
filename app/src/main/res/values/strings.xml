@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="refresh">Refresh</string>
+    <string name="refresh_info_dialog">Nie załadowano danych.\nSpróbowac ponownie ?</string>
+    <string name="show_on_map">Mapa</string>
+    <string name="current_location">Twoja lokalizacja</string>
+</resources>

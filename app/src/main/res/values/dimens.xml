@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_margin">2dp</dimen>
+    <dimen name="itemInListMargin">3dp</dimen>
+    <dimen name="icon_margin">3dp</dimen>
+    <dimen name="title_text_margin">5dp</dimen>
+    <dimen name="button_margin">10dp</dimen>
+    <dimen name="image_size">250dp</dimen>
+    <dimen name="detail_layout_margin">20dp</dimen>
+    <dimen name="item_in_detail_margin">3dp</dimen>
+</resources>
